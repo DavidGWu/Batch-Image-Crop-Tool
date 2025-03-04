@@ -309,7 +309,7 @@ class ImageCropTool:
         self.load_image()
         self.highlight_thumbnail()
     def show_about(self):
-        messagebox.showinfo("About", "Author: Guangzheng Wu \n GitHub: https://github.com/yourusername")
+        messagebox.showinfo("About", "Author: Guangzheng Wu \n Version: 1.0 \n https://github.com/DavidGWu/Batch-Image-Crop-Tool")
         
 if __name__ == "__main__":
     root = tk.Tk()
