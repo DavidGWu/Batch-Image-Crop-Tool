@@ -1,5 +1,6 @@
 # Batch Image Crop Tool
 Batch Image Crop Tool for folks generating dataset to train and fine-tune machine learning models
+![image](https://github.com/user-attachments/assets/733c32d6-86c1-4606-9f02-ed0205688781)
 
 
 - Ideal for generating dataset images to train and fine-tune machine learning models
