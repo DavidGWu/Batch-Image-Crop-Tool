@@ -9,3 +9,9 @@ Features:
 - Allows users to set the desired crop size
 - Auto-save for convenience
 - Smooth and efficient cropping experience
+
+Installation:
+`pip install Pillow`
+
+Run:
+`python BatchImageCropTool.py`
